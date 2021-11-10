@@ -1,0 +1,87 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	
+}
+
+body{
+	background: url(pngtree-3d-abstract-geometry-neon-luminous-stage-background-picture-image_1149615.jpg);
+	background-repeat:no-repeat;
+	background-attachment: fixed;  
+  background-size: cover;
+	
+}
+
+
+header
+{
+	background-color:white;
+	width: 100%;
+	height:50px;
+	position: fixed;
+	padding-top: 10px;
+	left: 0;
+}
+
+.logo
+{
+	float: left;
+	width: 25%;
+	text-align: center;
+	color: black;
+	
+}
+.navigation
+{
+	width:70%;
+	display: inline;
+}
+
+.navigation ul
+{
+	display: flex;
+	text-align: right;
+	padding-left: 330px;
+}
+.navigation ul li
+{
+	margin-top: 15px;
+	padding-left: 70px;
+	list-style-type: none;
+}
+
+.navigation ul li a
+{
+	color:black;
+	text-decoration: none;
+}
+.docimg img
+{
+	width: 1366px;
+    height: 605px;
+    background-size: cover;
+}
+
+.para1{
+    margin-top: 200px;
+	width: 400px;
+	font-size: 50px;
+	color:white;
+	margin-left: 900px;
+}
+footer
+{
+	position: fixed;
+	width:100%;
+	left: 0;
+	padding-top: 20px;
+	bottom: 0;
+	text-align: center;
+	background-color:coral;
+    height: 80px;
+	font-size: 20px;
+	
+
+}
+
